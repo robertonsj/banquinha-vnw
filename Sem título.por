@@ -21,8 +21,7 @@ programa {
       caso 4:
         escreva("receita de tapioca")
         pare
-      caso contrario:
-        escreva("Opção a ser escolhida inválida!")
+      
     }
   }
 }
